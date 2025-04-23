@@ -5,6 +5,7 @@
 
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
@@ -19,5 +20,4 @@
 
 
 
-
-i have added diff. types of h's
+i have added diff. types of h's and added image 
